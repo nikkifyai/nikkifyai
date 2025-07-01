@@ -1,14 +1,26 @@
-- 👋 Hi, I’m @nikkifyai
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning programming languages like java(completed half)
-- ,python  ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... mail me at cnikki262@gmail.com , and
-- my linkdin :https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BnjaAMvQuSNiKy0pTu31pNQ%3D%3D
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...i'm shy person but confident about my projects
+<h1 align="center">Hi, I'm Nikki 👋</h1>
 
-<!---
-nikkifyai/nikkifyai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  💻 Aspiring Frontend Developer | 🎥 Cinematic Storyteller | ✨ Dreamer Building in Public  
+</p>
+
+---
+
+## 🌱 About Me
+
+- 🔭 I’m currently learning **HTML, CSS, JavaScript, java,Git & React**
+- 🎬 I create **cinematic storytelling videos** under my identity: `TalesByNicolus`
+- 🎨 I love building **aesthetic and responsive websites**
+- 🌐 Passionate about **web design, UI/UX, and storytelling**
+- 🧠 Currently exploring **APIs, GitHub Projects.**
+
+---
+
+## ⚒️ Tech Stack
+
+```html
+💻 Languages:    HTML, CSS, JavaScript  
+🧩 Frameworks:   React (Learning)  
+🎨 Design:       Canva, Figma (Basic), CapCut  
+🛠️ Tools:        Git, GitHub, VS Code  
+📦 Projects:     Portfolio Website, Stopwatch, Weather App, Coffee eCommerce
